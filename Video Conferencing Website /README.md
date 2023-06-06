@@ -3,6 +3,6 @@
 Virtual Internship Tasks for Bharat Internship in Full Stack Development
 
 # Tech Stack involved:
-1.html
-2.css
-3.javascript
+<br>1.html<br>
+2.css<br>
+3.javascript<br>
